@@ -1,6 +1,25 @@
-body{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: azure;
-    font-style: normal;
-    
-}
+html {                 background: #591e1c;    
+                
+    background: url(https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif);                
+    background-repeat: repeat;               
+    background-attachment: fixed;              
+    background-blend-mode: overlay;               
+    font-family: 'Nunito', sans-serif;              
+    min-height: 100vh;               
+    display: flex;                
+    align-items: center;               
+    justify-content: center;            
+    }              
+    body{                    
+    background: #5f86f1;            
+    width: 100vw;                     
+    max-width: 650px;                    
+    text-align: center;                    
+    border-radius: 20px;                    
+    box-shadow: 0 0 10px #000000aa;                
+    padding: 25px;                     
+    margin-top: 150px;                     
+    margin-bottom: 50px;                  
+    font-family:'reboto';         
+   }       
+      h1{ text-align: center;
